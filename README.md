@@ -1,6 +1,6 @@
 ## Hello, Github! 👋
 
-My name is Luan. I'm having a career changing and currently studying Software Engineering and Artificial Intelligence.
+My name is Luan. I'm having a career changing and studying Software Engineering and Artificial Intelligence.
 
 I’m currently living in Brazil and speak Portuguese & English. You can reach me using my social media bellow. 📫
 
