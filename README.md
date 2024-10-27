@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, Github! 👋
 
-<!--
-**luanfelipebr/luanfelipebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luan. I'm having a career changing and currently studying Software Engineering and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I’m currently living in Brazil and speak Portuguese & English. You can reach me using my social media bellow. 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/luanfelipebr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luanfelipebr&show_icons=true&theme=dark" />
+</a> <br /> <br />
+<!-- <a href="https://github.com/luanfelipebr/convoychat">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanfelipebr&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a> -->
+
+<div> 
+  <a href="https://www.youtube.com/@luanfr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/luanfr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/luanfr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
